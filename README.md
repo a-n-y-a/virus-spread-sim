@@ -6,13 +6,13 @@
  Once you click Start Simulation, the simulation will begin and you will see multiple balls floating around the
  screen. These balls represent people.
  
- Social Distancing Person: ![3](ballHaloSmall.png)
+ Social Distancing Person: ![](Resources/ballHaloSmall.png)
  
- Healthy Person: ![1](ballGreenSmall.png)
+ Healthy Person: ![](Resources/ballGreenSmall.png)
  
- Infected Person: ![2](ballRedSmall.png)
+ Infected Person: ![](Resources/ballRedSmall.png)
  
- Recovered Person: ![3](ballBlueSmall.png)
+ Recovered Person: ![](Resources/ballBlueSmall.png)
  
  The green ball represents a healthy person the red represents an infected person which after ten seconds will turn blue or recover, meaning they can no longer infect other balls. When an infected ball
  touches a healthy ball, it will infect it, hence representing the spread of the virus. If you tap on a healthy ball, a
@@ -31,7 +31,7 @@
  
  This will increase performance and make the simulation run smoothy.
  
- The toggle is located next to Run My Code button: ![Toggle](resultsToggle.png)
+ The toggle is located next to Run My Code button: ![](Resources/resultsToggle.png)
  
  Initially the balls are placed randomly on the screen.
  
