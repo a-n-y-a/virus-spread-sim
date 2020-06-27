@@ -1,4 +1,9 @@
- # Welcome to my playground
+ 
+ <h1 align="center">Virus Spread Simulation</h1>
+ <h2 align="center">Apple 2020 WWDC Swift Student Challenge Winner</h1>
+ <p align="center"><img src="virus_spread_demo.gif" alt="Demo"></p>
+ 
+ ## Welcome to my playground
  
  This is a simple simulation, which aims to demonstrate the importance of social distancing during the current global
  pandemic.
@@ -24,7 +29,7 @@
  Ultimately I want to remind people that each and every single person has an impact on the spread of the virus, and that we all
  need to act responsibly.
  
- # Instructions
+ ## Instructions
  
  This Playground was optimized to run on iPad Pro in full screen mode.
  It is important to turn off the Enable Results toggle shown on the below picture.
@@ -39,7 +44,7 @@
  
  After staring the simulation users should observe spread of the virus. Taping on green balls puts them in social distancing mode.
  
- # Code Modules
+ ## Code Modules
  
  The code had been divided into three modules:
  
@@ -49,7 +54,7 @@
  
  SceneFunctions - various functions which are called from the MainScene
  
- # References
+ ## References
  
  I came up with the idea for the simulation based on the Washington Post's article about Simulitis
  
@@ -67,11 +72,10 @@
  
  [www.hackingwithswift.com](https://www.hackingwithswift.com)
  
- # Future Plans
+ ## Future Plans
  
  In the future I would like to add a graph to the playground to show how the amount of each type of balls change overtime.
  
  It would be also interesting to implement a feature for some percentage of infected people to die instead of fully recover.
  
- # Enjoy the simulation!
- # Anya
+ ## Enjoy the simulation!
